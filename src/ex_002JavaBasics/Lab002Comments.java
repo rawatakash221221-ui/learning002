@@ -1,6 +1,6 @@
-package ex_002;
+package ex_002JavaBasics;
 
-public class Lab_002Comments {
+public class Lab002Comments {
     public static void main(String[] args) {
         // Hello My name is Akash Rawat
         // This is My 1 comment.
