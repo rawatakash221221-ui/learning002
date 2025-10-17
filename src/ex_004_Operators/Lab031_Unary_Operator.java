@@ -1,6 +1,6 @@
 package ex_004_Operators;
 
-public class Lab_031_Unary_Operator {
+public class Lab031_Unary_Operator {
     public static void main(String[] args) {
         int a = +10;
         int a1 = -110;

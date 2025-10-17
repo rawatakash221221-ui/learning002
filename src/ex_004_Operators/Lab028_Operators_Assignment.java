@@ -1,6 +1,6 @@
 package ex_004_Operators;
 
-public class Lab027_Operators_Assignment {
+public class Lab028_Operators_Assignment {
     public static void main(String[] args) {
         int age=10;
         // int = data_type
