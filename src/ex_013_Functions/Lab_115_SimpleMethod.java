@@ -1,6 +1,6 @@
 package ex_013_Functions;
 
-public class Lab_000_SimpleMethod {
+public class Lab_115_SimpleMethod {
     public static void main(String[] args) {
 
         String name=return_type();

@@ -1,6 +1,6 @@
 package ex_013_Functions;
 import java.util.Scanner;
-public class Lab_100_Arth_Function {
+public class Lab_111_Arth_Function {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int a=returnParameter(scanner,"Enter your 1 no");

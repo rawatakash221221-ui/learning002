@@ -1,6 +1,6 @@
 package ex_013_Functions;
 
-public class Lab_000_User_DefinedOne {
+public class Lab_113_User_DefinedOne {
     public static void main(String[] args) {
         int result=UserDefined(4 ,5);
         System.out.println(result);

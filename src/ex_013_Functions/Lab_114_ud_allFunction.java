@@ -1,6 +1,6 @@
 package ex_013_Functions;
 
-public class Lab_000_ud_allFunction {
+public class Lab_114_ud_allFunction {
     public static void main(String[] args) {
         greet();
         String name=greet2();
