@@ -1,7 +1,5 @@
 package ex_013_Functions;
 
-import java.sql.SQLOutput;
-
 public class Lab_000_ud_allFunction {
     public static void main(String[] args) {
         greet();
