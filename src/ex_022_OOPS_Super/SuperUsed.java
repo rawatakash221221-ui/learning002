@@ -1,4 +1,4 @@
-package ex_22_OOPS_Super;
+package ex_022_OOPS_Super;
 
 public class SuperUsed {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ex_20_OOPS_PolyMorphism;
+package ex_020_OOPS_PolyMorphism;
 
 public class MethodOverloading {
     public static void main(String[] args) {

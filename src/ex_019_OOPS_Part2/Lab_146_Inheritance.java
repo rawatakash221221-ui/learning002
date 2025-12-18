@@ -1,4 +1,4 @@
-package ex_19_OOPS_Part2;
+package ex_019_OOPS_Part2;
 
 public class Lab_146_Inheritance {
     public static void main(String[] args) {

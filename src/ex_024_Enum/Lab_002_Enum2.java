@@ -1,4 +1,4 @@
-package ex_24_Enum;
+package ex_024_Enum;
 
 public class Lab_002_Enum2 {
     public static void main(String[] args) {

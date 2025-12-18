@@ -1,4 +1,4 @@
-package ex_24_Enum;
+package ex_024_Enum;
 
 public class Real_life_automation_Youtube {
     public static void main(String[] args) {

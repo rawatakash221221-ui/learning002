@@ -1,4 +1,4 @@
-package ex_23_OOPS_Abstraction;
+package ex_023_OOPS_Abstraction;
 
 public class Lab_Abstraction {
     public static void main(String[] args) {

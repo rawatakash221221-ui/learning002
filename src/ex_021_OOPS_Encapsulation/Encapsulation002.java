@@ -1,4 +1,4 @@
-package ex_21_OOPS_Encapsulation;
+package ex_021_OOPS_Encapsulation;
 
 public class Encapsulation002 {
     public static void main(String[] args) {

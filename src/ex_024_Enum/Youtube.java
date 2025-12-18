@@ -1,4 +1,4 @@
-package ex_24_Enum;
+package ex_024_Enum;
 
 public enum Youtube {
      //Songs
