@@ -1,4 +1,4 @@
-package ex_12_Dowhile;
+package ex_012_Dowhile;
 
 public class Lab_110_Dowhile2 {
     public static void main(String[] args) {
